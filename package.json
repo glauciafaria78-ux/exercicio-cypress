@@ -1,0 +1,24 @@
+{
+  "name": "exercicio-cypress",
+  "version": "1.0.0",
+  "description": "Projeto Cypress para desenvolvimento de testes E2E usando Github Copilot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glauciafaria78-ux/exercicio-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/glauciafaria78-ux/exercicio-cypress/issues"
+  },
+  "homepage": "https://github.com/glauciafaria78-ux/exercicio-cypress#readme",
+  "devDependencies": {
+    "cypress": "^16.3.0"
+  }
+}
